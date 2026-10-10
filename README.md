@@ -1,5 +1,4 @@
-# -_-
-양현익_포트폴리오
+# 양현익_포트폴리오
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b6aad8f4-f886-4683-8dd9-d0eb87513ba0" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/da7022ea-b2af-46c1-bde7-a9d1cf7ed10e" />
